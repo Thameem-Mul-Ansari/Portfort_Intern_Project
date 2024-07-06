@@ -7,10 +7,10 @@
 
 # Key Features
 
-# Intuitive GUI: PortFort presents a visually appealing and easy-to-navigate interface with clear icons representing each port type (USB, Wi-Fi, Ethernet, Webcam).
-# Granular Control: Users can effortlessly enable or disable individual ports based on their preferences and security requirements.
-# Secure Authentication: A secure login system safeguards unauthorized access to PortFort's functionalities.
-# Verification Mechanism: Upon login, a 4-digit code sent via email is required for verification, adding an extra layer of security.
+**Intuitive GUI:** PortFort presents a visually appealing and easy-to-navigate interface with clear icons representing each port type (USB, Wi-Fi, Ethernet, Webcam).
+**Granular Control:** Users can effortlessly enable or disable individual ports based on their preferences and security requirements.
+**Secure Authentication:** A secure login system safeguards unauthorized access to PortFort's functionalities.
+**Verification Mechanism:** Upon login, a 4-digit code sent via email is required for verification, adding an extra layer of security.
 
 # Installation
 
@@ -23,20 +23,21 @@
   subprocess
 
 Additional libraries for specific port control functionalities (e.g., pywinusb for Windows USB control) may be required. Refer to their respective documentation for installation instructions.
-# Download: Clone or download the PortFort repository from GitHub (link to your repository).
+# Download: 
+Clone or download the PortFort repository from GitHub (link to your repository).
 
 # Run the Application:
 
   Navigate to the downloaded directory in your terminal.
   Execute the main Python script using the following command:
-    # python portfort.py
+    **python portfort.py**
 
 # Usage
 
-# Launch PortFort: Double-click the main.py file or execute the command mentioned above.
-# Login: Enter your registered email address and password in the login screen.
-# Verification: Check your email for a 4-digit code sent from PortFort. Enter the code in the verification prompt displayed within the application.
-# Port Management: Upon successful verification, you'll be presented with the main UI. Click the corresponding icons to enable or disable desired ports.
+**Launch PortFort:** Double-click the main.py file or execute the command mentioned above.
+**Login:** Enter your registered email address and password in the login screen.
+**Verification:** Check your email for a 4-digit code sent from PortFort. Enter the code in the verification prompt displayed within the application.
+**Port Management:** Upon successful verification, you'll be presented with the main UI. Click the corresponding icons to enable or disable desired ports.
 
 # Additional Notes
 
